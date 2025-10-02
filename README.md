@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![dashboard Page 1](/Dashboard%20Page%201.png)
+![dashboard Page 1](/images/Dashboard%20Page%201.png)
 
 
 ## Introduction
@@ -14,16 +14,21 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 - **📊 Core Charts:** Utilized **Column, Bar, Line** and **Area Charts** to compare job counts and track trends over time.
 - **📖 Geospatial Analysis:** Leveraged **Map Charts** to visualize the global distribution of jobs.
 - **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular sortable data.
+- **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
+- **🖱️Interactive Reporting:**
+     - **Slicers:** To dynamically filter the report by Job Title.
+     - **Buttons & Bookmarks:** To create a seamless navigation experience.
+     - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
 
 ## Dashboard Overview
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](/Images/Dashboard%20Page%201.png)
+![Dashboard Page 1](/images/Dashboard%20Page%201.png)
 This is your mission control for the data job market.  It showcases key KPIs like total job count, median salaires, and top job titles to give you a quick understanding of what's happening in the job market at a glance..
 
 ## Page 2: Job Title Drill Through
 
-![Dashboard Page 2](/Images/Dashboard%20Page%202.png)
+![Dashboard Page 2](/images/Dashboard%20Page%202.png)
 
 This is the deep-dive page.  From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work from home stats, top hiring platforms, and a global map of job location
 
